@@ -35,6 +35,8 @@ namespace RedisApp
 
             Console.WriteLine(_savedValue);
 
+            //#todo: try different operations on redis data types
+
             Console.ReadLine();
         }
     }
